@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+<ANATES file_version="4.0.2">
+    <Data_Mentah>
+        <Kunci>CADBCCADBCCADBCCADBCCADBCCAAAC</Kunci>
+        <JumSubyek>40</JumSubyek>
+        <JumButir>30</JumButir>
+        <JumPilihan>4</JumPilihan>
+        <IsNeedRecalc>-1</IsNeedRecalc>
+        <NoButir>
+            <NOBTR>1</NOBTR>
+            <NOBTR>2</NOBTR>
+            <NOBTR>3</NOBTR>
+            <NOBTR>4</NOBTR>
+            <NOBTR>5</NOBTR>
+            <NOBTR>6</NOBTR>
+            <NOBTR>7</NOBTR>
+            <NOBTR>8</NOBTR>
+            <NOBTR>9</NOBTR>
+            <NOBTR>10</NOBTR>
+            <NOBTR>11</NOBTR>
+            <NOBTR>12</NOBTR>
+            <NOBTR>13</NOBTR>
+            <NOBTR>14</NOBTR>
+            <NOBTR>15</NOBTR>
+            <NOBTR>16</NOBTR>
+            <NOBTR>17</NOBTR>
+            <NOBTR>18</NOBTR>
+            <NOBTR>19</NOBTR>
+            <NOBTR>20</NOBTR>
+            <NOBTR>21</NOBTR>
+            <NOBTR>22</NOBTR>
+            <NOBTR>23</NOBTR>
+            <NOBTR>24</NOBTR>
+            <NOBTR>25</NOBTR>
+            <NOBTR>26</NOBTR>
+            <NOBTR>27</NOBTR>
+            <NOBTR>28</NOBTR>
+            <NOBTR>29</NOBTR>
+            <NOBTR>30</NOBTR>
+        </NoButir>
+        <Jawaban>
+            <JumItem>40</JumItem>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>1</NoSubyek>
+                <Jwb>BABAACBBDDCDDDDBDCAABDBAABABCC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>2</NoSubyek>
+                <Jwb>DCBABCBBADBDDDCABCAABCBDACBCCA</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>3</NoSubyek>
+                <Jwb>DCDACCCBDCCDDAACCCAADBBBACDDDB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>4</NoSubyek>
+                <Jwb>ACBABABDCDBDDDABACAABCBDACDBCB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>5</NoSubyek>
+                <Jwb>BCBABBBBDDBDDDABCCAABCBCACDBCC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>6</NoSubyek>
+                <Jwb>BDBABABBADBDDAABCCAABDBAACABCC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>7</NoSubyek>
+                <Jwb>BDBABABBCDBDDDABACAABABDACABCB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>8</NoSubyek>
+                <Jwb>DCDABCBBACCDDAABCCCABABDACDDCA</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>9</NoSubyek>
+                <Jwb>ACBABABBCDBDDDABACAABCBDACDCCB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>10</NoSubyek>
+                <Jwb>ACBABABBCDBDDDABACAABCBDACDBCB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>11</NoSubyek>
+                <Jwb>DCBADCCBADCDDAABDCAABCBDACDBCC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>12</NoSubyek>
+                <Jwb>DCDACCCBADBDDAABCCAABABDACDBCA</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>13</NoSubyek>
+                <Jwb>DCDABBBBDDCDDAABACAABABDACDACB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>14</NoSubyek>
+                <Jwb>DACAABCBBDCDDAADCCAABDBABCDBCC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>15</NoSubyek>
+                <Jwb>DDBACACBBCBDDADACCAABCBCACCBCA</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>16</NoSubyek>
+                <Jwb>ACBABABBCDBDDDABACAABCBDACDCCA</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>17</NoSubyek>
+                <Jwb>ACCABCBBDCBDDAAABCAABABBACDCCC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>18</NoSubyek>
+                <Jwb>DCDABCBBACBDDAABDCAABABDACDBAC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>19</NoSubyek>
+                <Jwb>ACDABDBBDDDADACCBCAABABDACDDBC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>20</NoSubyek>
+                <Jwb>ACAABCCBBCBDDDABCCAABABCABDBCC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>21</NoSubyek>
+                <Jwb>ADDADDBBDDBDBDABCACDBABAACDACB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>22</NoSubyek>
+                <Jwb>ACAABACBDCBDDDCABCAABABBACDCCB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>23</NoSubyek>
+                <Jwb>ADCCDDBBDDBDBDABCACDBABAACDACB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>24</NoSubyek>
+                <Jwb>ACDCBDBBDDBDDDCBCCAABABCACADCB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>25</NoSubyek>
+                <Jwb>ACDCBDBBDCCDDADBDCAADABDACCDCB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>26</NoSubyek>
+                <Jwb>DCDCCCBBADBDDBABCCAABDBCACDADA</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>27</NoSubyek>
+                <Jwb>DCDDCDBBDDCDDDABCCACBCACACDCAC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>28</NoSubyek>
+                <Jwb>DCDACCCBACCDDCACCCAABABDACDBCC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>29</NoSubyek>
+                <Jwb>DCDCBCBBACBDDDACCCCABABDACDCCB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>30</NoSubyek>
+                <Jwb>ACDBBBBBADBDDDABDCAABCBDBADDCA</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>31</NoSubyek>
+                <Jwb>ACDABCBBDACDDDDAACCABABDACBBDC</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>32</NoSubyek>
+                <Jwb>ADDADDBBDDBDDDDBCCCDBABCBBDBAB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>33</NoSubyek>
+                <Jwb>ADCCDDBBDDBDBDDBCACDBABAACDACB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>34</NoSubyek>
+                <Jwb>BBAACBCBBDBDDDAACCAABDBBBCCDCB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>35</NoSubyek>
+                <Jwb>ADCCBDBBDCBAABDDCCAABCBDCCCABB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>36</NoSubyek>
+                <Jwb>CCDCBACBDCBAABDDCCAABCBDCCABBB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>37</NoSubyek>
+                <Jwb>CDDABBBBBCBDAACADCAABABAACDACB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Andrey Sitohang</Nama>
+                <NoSubyek>38</NoSubyek>
+                <Jwb>CCACBDBBDCBAABDDCCAABCBDCCABBB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Muhammad Ghiffari</Nama>
+                <NoSubyek>39</NoSubyek>
+                <Jwb>ADDCDDBBDDBDBDDBCCCDBABABCACCB</Jwb>
+            </Subyek>
+            <Subyek>
+                <Nama>Dewi Sampurna Wati</Nama>
+                <NoSubyek>40</NoSubyek>
+                <Jwb>ACDCACBBDCCDAAAACCAABABCABDDAD</Jwb>
+            </Subyek>
+        </Jawaban>
+    </Data_Mentah>
+    <Data_Skor>
+        <Rata2>0</Rata2>
+        <SD>0</SD>
+        <IsUrutkanBerdSkor>0</IsUrutkanBerdSkor>
+        <JumButir>0</JumButir>
+        <BobotBetul>1</BobotBetul>
+        <BobotSalah>0</BobotSalah>
+        <Kunci></Kunci>
+        <NoButir/>
+        <Skor>
+            <JumItem>0</JumItem>
+        </Skor>
+    </Data_Skor>
+</ANATES>
