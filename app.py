@@ -16,7 +16,8 @@ open("hasil/jawaban per lima.txt", "w") as jawaban_per_lima, \
 open("hasil/jawaban satuan.txt", "w") as jawaban_satuan, \
 open("hasil/jawaban anates.ana", "w") as jawaban_anates, \
 open("hasil/nama.txt", "w") as nama, \
-open("hasil/nama plus gender.txt", "w") as nama_plus_gender:
+open("hasil/nama plus gender.txt", "w") as nama_plus_gender, \
+open("hasil/spss.txt", "w") as spss:
 
 	# nama plus gender
 	nama_dan_gender_list = nama_dan_gender.read().splitlines()
@@ -73,6 +74,21 @@ open("hasil/nama plus gender.txt", "w") as nama_plus_gender:
 	jumlah_subjek = len(jawaban_list)
 	jumlah_butir = len(kunci_list_list)
 	jumlah_pilihan = len(list(set(kunci_list_list)))
+
+	# spss
+	spss_list = jawaban_list
+	for n in range(len(spss_list)):
+		spss_list[n] = list(spss_list[n])
+	for x in spss_list:
+		for u in range(len(x)):
+			if x[u] == kunci_list_list[u]:
+				x[u] = 1
+			else:
+				x[u] = 0
+	for x in spss_list:
+		for y in x:
+			spss.write(str(y) + "\t")
+		spss.write("\n")
 
 	jawaban_anates.write("""<?xml version="1.0"?>
 <ANATES file_version="4.0.2">

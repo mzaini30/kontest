@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ANATES file_version="4.0.2">
     <Data_Mentah>
-        <Kunci>CADBCCADBCCADBCCADBCCADBCCAAAC</Kunci>
+        <Kunci>DCDCBCBBADCDDDABCCAABCBDACDBCB</Kunci>
         <JumSubyek>40</JumSubyek>
         <JumButir>30</JumButir>
         <JumPilihan>4</JumPilihan>
@@ -41,204 +41,204 @@
         <Jawaban>
             <JumItem>40</JumItem>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Azzam</Nama>
                 <NoSubyek>1</NoSubyek>
-                <Jwb>BABAACBBDDCDDDDBDCAABDBAABABCC</Jwb>
+                <Jwb>[0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Abi Sayuti</Nama>
                 <NoSubyek>2</NoSubyek>
-                <Jwb>DCBABCBBADBDDDCABCAABCBDACBCCA</Jwb>
+                <Jwb>[1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Muhammad Jumaidil Akbar</Nama>
                 <NoSubyek>3</NoSubyek>
-                <Jwb>DCDACCCBDCCDDAACCCAADBBBACDDDB</Jwb>
+                <Jwb>[1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Rhezky Nurul Arzy</Nama>
                 <NoSubyek>4</NoSubyek>
-                <Jwb>ACBABABDCDBDDDABACAABCBDACDBCB</Jwb>
+                <Jwb>[0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Anas Muhammad Alifi</Nama>
                 <NoSubyek>5</NoSubyek>
-                <Jwb>BCBABBBBDDBDDDABCCAABCBCACDBCC</Jwb>
+                <Jwb>[0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Andi Muhammad Zaki Z</Nama>
                 <NoSubyek>6</NoSubyek>
-                <Jwb>BDBABABBADBDDAABCCAABDBAACABCC</Jwb>
+                <Jwb>[0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Lalu Rendy Firmansyah</Nama>
                 <NoSubyek>7</NoSubyek>
-                <Jwb>BDBABABBCDBDDDABACAABABDACABCB</Jwb>
+                <Jwb>[0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Renjiro Naufal Syarif</Nama>
                 <NoSubyek>8</NoSubyek>
-                <Jwb>DCDABCBBACCDDAABCCCABABDACDDCA</Jwb>
+                <Jwb>[1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Dendy Irawan</Nama>
                 <NoSubyek>9</NoSubyek>
-                <Jwb>ACBABABBCDBDDDABACAABCBDACDCCB</Jwb>
+                <Jwb>[0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Muhammad Fakhiwi Akbar</Nama>
                 <NoSubyek>10</NoSubyek>
-                <Jwb>ACBABABBCDBDDDABACAABCBDACDBCB</Jwb>
+                <Jwb>[0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Gitara Audia R</Nama>
                 <NoSubyek>11</NoSubyek>
-                <Jwb>DCBADCCBADCDDAABDCAABCBDACDBCC</Jwb>
+                <Jwb>[1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Rizky Amelia Kartika S</Nama>
                 <NoSubyek>12</NoSubyek>
-                <Jwb>DCDACCCBADBDDAABCCAABABDACDBCA</Jwb>
+                <Jwb>[1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Muhammad Fadhil Abdul Ghani</Nama>
                 <NoSubyek>13</NoSubyek>
-                <Jwb>DCDABBBBDDCDDAABACAABABDACDACB</Jwb>
+                <Jwb>[1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Adz Dzikri</Nama>
                 <NoSubyek>14</NoSubyek>
-                <Jwb>DACAABCBBDCDDAADCCAABDBABCDBCC</Jwb>
+                <Jwb>[1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Bintang DNA</Nama>
                 <NoSubyek>15</NoSubyek>
-                <Jwb>DDBACACBBCBDDADACCAABCBCACCBCA</Jwb>
+                <Jwb>[1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Muhammad George Osama</Nama>
                 <NoSubyek>16</NoSubyek>
-                <Jwb>ACBABABBCDBDDDABACAABCBDACDCCA</Jwb>
+                <Jwb>[0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Handi Febrian</Nama>
                 <NoSubyek>17</NoSubyek>
-                <Jwb>ACCABCBBDCBDDAAABCAABABBACDCCC</Jwb>
+                <Jwb>[0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Andi Muhammad Raihan Z</Nama>
                 <NoSubyek>18</NoSubyek>
-                <Jwb>DCDABCBBACBDDAABDCAABABDACDBAC</Jwb>
+                <Jwb>[1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Muhammad Erwin J</Nama>
                 <NoSubyek>19</NoSubyek>
-                <Jwb>ACDABDBBDDDADACCBCAABABDACDDBC</Jwb>
+                <Jwb>[0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Muhammad Rizal Muhyidin</Nama>
                 <NoSubyek>20</NoSubyek>
-                <Jwb>ACAABCCBBCBDDDABCCAABABCABDBCC</Jwb>
+                <Jwb>[0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Rizki Ade Setiawan S</Nama>
                 <NoSubyek>21</NoSubyek>
-                <Jwb>ADDADDBBDDBDBDABCACDBABAACDACB</Jwb>
+                <Jwb>[0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Naufal Fadhilah</Nama>
                 <NoSubyek>22</NoSubyek>
-                <Jwb>ACAABACBDCBDDDCABCAABABBACDCCB</Jwb>
+                <Jwb>[0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Nadifa Rizki Kurniawan</Nama>
                 <NoSubyek>23</NoSubyek>
-                <Jwb>ADCCDDBBDDBDBDABCACDBABAACDACB</Jwb>
+                <Jwb>[0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Reyhan Fahreza J</Nama>
                 <NoSubyek>24</NoSubyek>
-                <Jwb>ACDCBDBBDDBDDDCBCCAABABCACADCB</Jwb>
+                <Jwb>[0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Mihammad Alif</Nama>
                 <NoSubyek>25</NoSubyek>
-                <Jwb>ACDCBDBBDCCDDADBDCAADABDACCDCB</Jwb>
+                <Jwb>[0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Hermawati</Nama>
                 <NoSubyek>26</NoSubyek>
-                <Jwb>DCDCCCBBADBDDBABCCAABDBCACDADA</Jwb>
+                <Jwb>[1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Herlina Agusti</Nama>
                 <NoSubyek>27</NoSubyek>
-                <Jwb>DCDDCDBBDDCDDDABCCACBCACACDCAC</Jwb>
+                <Jwb>[1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Intan Syafitiy</Nama>
                 <NoSubyek>28</NoSubyek>
-                <Jwb>DCDACCCBACCDDCACCCAABABDACDBCC</Jwb>
+                <Jwb>[1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Siti Nurhayati</Nama>
                 <NoSubyek>29</NoSubyek>
-                <Jwb>DCDCBCBBACBDDDACCCCABABDACDCCB</Jwb>
+                <Jwb>[1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Elvira Nahami Sisca</Nama>
                 <NoSubyek>30</NoSubyek>
-                <Jwb>ACDBBBBBADBDDDABDCAABCBDBADDCA</Jwb>
+                <Jwb>[0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Ahmad Fadillah</Nama>
                 <NoSubyek>31</NoSubyek>
-                <Jwb>ACDABCBBDACDDDDAACCABABDACBBDC</Jwb>
+                <Jwb>[0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Ahmad Roziq</Nama>
                 <NoSubyek>32</NoSubyek>
-                <Jwb>ADDADDBBDDBDDDDBCCCDBABCBBDBAB</Jwb>
+                <Jwb>[0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Yoga Saputra</Nama>
                 <NoSubyek>33</NoSubyek>
-                <Jwb>ADCCDDBBDDBDBDDBCACDBABAACDACB</Jwb>
+                <Jwb>[0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Muhammad Hafiedz F</Nama>
                 <NoSubyek>34</NoSubyek>
-                <Jwb>BBAACBCBBDBDDDAACCAABDBBBCCDCB</Jwb>
+                <Jwb>[0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>Jaenul Vikran</Nama>
                 <NoSubyek>35</NoSubyek>
-                <Jwb>ADCCBDBBDCBAABDDCCAABCBDCCCABB</Jwb>
+                <Jwb>[0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Abdul Rahim</Nama>
                 <NoSubyek>36</NoSubyek>
-                <Jwb>CCDCBACBDCBAABDDCCAABCBDCCABBB</Jwb>
+                <Jwb>[0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Zid Jian Gibran</Nama>
                 <NoSubyek>37</NoSubyek>
-                <Jwb>CDDABBBBBCBDAACADCAABABAACDACB</Jwb>
+                <Jwb>[0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Andrey Sitohang</Nama>
+                <Nama>La Ode Muhammad Izzad</Nama>
                 <NoSubyek>38</NoSubyek>
-                <Jwb>CCACBDBBDCBAABDDCCAABCBDCCABBB</Jwb>
+                <Jwb>[0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Muhammad Ghiffari</Nama>
+                <Nama>Muhammad Hafizh Ath Thoriq</Nama>
                 <NoSubyek>39</NoSubyek>
-                <Jwb>ADDCDDBBDDBDBDDBCCCDBABABCACCB</Jwb>
+                <Jwb>[0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1]</Jwb>
             </Subyek>
             <Subyek>
-                <Nama>Dewi Sampurna Wati</Nama>
+                <Nama>Ivan F</Nama>
                 <NoSubyek>40</NoSubyek>
-                <Jwb>ACDCACBBDCCDAAAACCAABABCABDDAD</Jwb>
+                <Jwb>[0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0]</Jwb>
             </Subyek>
         </Jawaban>
     </Data_Mentah>
