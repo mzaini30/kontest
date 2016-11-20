@@ -75,21 +75,6 @@ open("hasil/spss.txt", "w") as spss:
 	jumlah_butir = len(kunci_list_list)
 	jumlah_pilihan = len(list(set(kunci_list_list)))
 
-	# spss
-	spss_list = jawaban_list
-	for n in range(len(spss_list)):
-		spss_list[n] = list(spss_list[n])
-	for x in spss_list:
-		for u in range(len(x)):
-			if x[u] == kunci_list_list[u]:
-				x[u] = 1
-			else:
-				x[u] = 0
-	for x in spss_list:
-		for y in x:
-			spss.write(str(y) + "\t")
-		spss.write("\n")
-
 	jawaban_anates.write("""<?xml version="1.0"?>
 <ANATES file_version="4.0.2">
     <Data_Mentah>
@@ -138,3 +123,18 @@ open("hasil/spss.txt", "w") as spss:
         </Skor>
     </Data_Skor>
 </ANATES>""")
+
+	# spss
+	spss_list = jawaban_list
+	for n in range(len(spss_list)):
+		spss_list[n] = list(spss_list[n])
+	for x in spss_list:
+		for u in range(len(x)):
+			if x[u] == kunci_list_list[u]:
+				x[u] = 1
+			else:
+				x[u] = 0
+	for x in spss_list:
+		for y in x:
+			spss.write(str(y) + "\t")
+		spss.write("\n")
