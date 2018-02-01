@@ -120,6 +120,14 @@ jQuery(function(){
         <Jawaban>\
             <JumItem>'+list_jawaban.length+'</JumItem>';
 		z = 1;
+		for (n in list_jawaban){
+			calon_anates += '<Subyek>\
+                <Nama>'++'</Nama>\
+                <NoSubyek>'++'</NoSubyek>\
+                <Jwb>'++'</Jwb>\
+            </Subyek>';
+            z++;
+		}
 
 	});
 
