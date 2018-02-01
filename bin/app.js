@@ -31,7 +31,17 @@ jQuery(function(){
 
 		// jawaban gabung dulu
 
-		calon_jawaban_gabung_dulu = jawaban.replace()
+		jawaban_gabung_dulu = jawaban.replace(/ /g, '');
+
+		// jawaban per lima
+
+		calon_jawaban_per_lima = jawaban_gabung_dulu.replace(/(.....)/g, '$1\t');
+		jawaban_per_lima.val(calon_jawaban_per_lima);
+
+		// jawaban satuan
+
+		calon_jawaban_satuan = jawaban_gabung_dulu.replace(/(.)/g, '$1\t');
+		jawaban_satuan.val(calon_jawaban_satuan);
 
 	});
 
