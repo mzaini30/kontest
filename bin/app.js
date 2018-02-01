@@ -98,11 +98,18 @@ jQuery(function(){
         calon_anates += '</Kunci>\
         <JumSubyek>'+list_jawaban.length+'</JumSubyek>\
         <JumButir>'+list_kunci.length+'</JumButir>\
-        <JumPilihan>'++'</JumPilihan>\
+        <JumPilihan>'+'</JumPilihan>\
         <IsNeedRecalc>-1</IsNeedRecalc>\
         <NoButir>';
-        new Set()
-        jawaban_anates.val(calon_anates);
+        set = [];
+        for (n in list_kunci){
+        	set[list_kunci[n]] = true;
+        }
+        list = [];
+        for (n in set){
+        	list[n] = 
+        }
+        jawaban_anates.val(pilihan);
 
 	});
 
