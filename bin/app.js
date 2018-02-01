@@ -57,7 +57,7 @@ jQuery(function(){
 			list_jawaban[n] = list_jawaban[n].split('');
 		}
 		for (n in list_jawaban){
-			
+			for (u in )
 		}
 
 	});
