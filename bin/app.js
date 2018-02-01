@@ -107,9 +107,9 @@ jQuery(function(){
         }
         list = [];
         for (n in set){
-        	list[n] = 
+        	list[n] = set[n];
         }
-        jawaban_anates.val(pilihan);
+        jawaban_anates.val(list);
 
 	});
 
