@@ -101,6 +101,7 @@ jQuery(function(){
         <JumPilihan>'++'</JumPilihan>\
         <IsNeedRecalc>-1</IsNeedRecalc>\
         <NoButir>';
+        new Set()
         jawaban_anates.val(calon_anates);
 
 	});
