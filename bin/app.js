@@ -105,7 +105,7 @@ jQuery(function(){
         	list.push(n);
         }
         calon_anates += '</Kunci>\
-        <JumSubyek>'+list_jawaban.length+'</JumSubyek>\
+        <JumSubyek>'+list_jawaban+'</JumSubyek>\
         <JumButir>'+list_kunci.length+'</JumButir>\
         <JumPilihan>'+jumlah_pilihan.length+'</JumPilihan>\
         <IsNeedRecalc>-1</IsNeedRecalc>\
