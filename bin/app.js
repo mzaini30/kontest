@@ -80,13 +80,6 @@ jQuery(function(){
 		}
 		spss.val(calon_spss);
 
-		// membuat subyek
-
-		subyek = [];
-		for (n in list_jawaban){
-			subyek[n] = 'siswa_' + n;
-		}
-
 		// anates
 
 		calon_anates = '';
@@ -122,7 +115,7 @@ jQuery(function(){
 		z = 1;
 		for (n in list_jawaban){
 			calon_anates += '<Subyek>\
-                <Nama>'+subyek[n]+'</Nama>\
+                <Nama>siswa_'+z+'</Nama>\
                 <NoSubyek>'+z+'</NoSubyek>\
                 <Jwb>'+list_jawaban[n]+'</Jwb>\
             </Subyek>';
