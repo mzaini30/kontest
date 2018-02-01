@@ -21,8 +21,17 @@ jQuery(function(){
 
 		// kunci per lima
 
-		calon_kunci_per_lima = kunci.replace(/...../g, '\1\t');
+		calon_kunci_per_lima = kunci_gabung.val().replace(/(.....)/g, '$1\t');
 		kunci_per_lima.val(calon_kunci_per_lima);
+
+		// kunci satuan
+
+		calon_kunci_satuan = kunci_gabung.val().replace(/(.)/g, '$1\n');
+		kunci_satuan.val(calon_kunci_satuan);
+
+		// jawaban per lima
+
+		calon_jawaban_per_lima = 
 
 	});
 
