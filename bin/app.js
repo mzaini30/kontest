@@ -53,7 +53,12 @@ jQuery(function(){
 
 		list_kunci = kunci_gabung_dulu.split('');
 		list_jawaban = jawaban_gabung_dulu.split('\n');
-		
+		for (n in list_jawaban){
+			list_jawaban[n] = list_jawaban[n].split('');
+		}
+		for (n in list_jawaban){
+			
+		}
 
 	});
 
