@@ -101,6 +101,15 @@ jQuery(function(){
         <JumPilihan>'+'</JumPilihan>\
         <IsNeedRecalc>-1</IsNeedRecalc>\
         <NoButir>';
+        set = {};
+        for (n in list_kunci){
+        	set[list_kunci[n]] = true;
+        }
+        list = [];
+        for (n in set){
+        	list.push(n);
+        }
+        jawaban_anates.val(list);
 
 	});
 
