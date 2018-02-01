@@ -29,9 +29,9 @@ jQuery(function(){
 		calon_kunci_satuan = kunci_gabung.val().replace(/(.)/g, '$1\n');
 		kunci_satuan.val(calon_kunci_satuan);
 
-		// jawaban per lima
+		// jawaban gabung dulu
 
-		calon_jawaban_per_lima = 
+		calon_jawaban_gabung_dulu = jawaban.replace()
 
 	});
 
