@@ -94,8 +94,8 @@ jQuery(function(){
         	set[list_kunci[n]] = true;
         }
         jumlah_pilihan = [];
-        for (n in jumlah_pilihan){
-        	list.push(n);
+        for (n in set){
+        	jumlah_pilihan.push(n);
         }
         calon_anates += '</Kunci>\
         <JumSubyek>'+list_jawaban.length+'</JumSubyek>\
