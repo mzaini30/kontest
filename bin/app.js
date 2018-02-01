@@ -80,10 +80,22 @@ jQuery(function(){
 		}
 		spss.val(calon_spss);
 
+		// membuat subyek
+
+		subyek = [];
+		for (n in list_jawaban){
+			subyek[n] = 'siswa_' + n;
+		}
+
 		// anates
 
 		calon_anates = '';
-		
+		calon_anates += '<?xml version="1.0"?>\
+<ANATES file_version="4.0.2">\
+    <Data_Mentah>\
+        <Kunci>';
+        calon_anates += subyek[0];
+        
 
 	});
 
