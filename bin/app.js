@@ -95,7 +95,13 @@ jQuery(function(){
     <Data_Mentah>\
         <Kunci>';
         calon_anates += subyek[0];
-        
+        calon_anates += '</Kunci>\
+        <JumSubyek>'+list_jawaban.length+'</JumSubyek>\
+        <JumButir>'+list_kunci.length+'</JumButir>\
+        <JumPilihan>'++'</JumPilihan>\
+        <IsNeedRecalc>-1</IsNeedRecalc>\
+        <NoButir>';
+        jawaban_anates.val(calon_anates);
 
 	});
 
