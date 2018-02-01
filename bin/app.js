@@ -122,12 +122,30 @@ jQuery(function(){
 		z = 1;
 		for (n in list_jawaban){
 			calon_anates += '<Subyek>\
-                <Nama>'++'</Nama>\
-                <NoSubyek>'++'</NoSubyek>\
-                <Jwb>'++'</Jwb>\
+                <Nama>'+subyek[n]+'</Nama>\
+                <NoSubyek>'+z+'</NoSubyek>\
+                <Jwb>'+list_jawaban[n]+'</Jwb>\
             </Subyek>';
             z++;
 		}
+		z = 0;
+		calon_anates += '</Jawaban>\
+    </Data_Mentah>\
+    <Data_Skor>\
+        <Rata2>0</Rata2>\
+        <SD>0</SD>\
+        <IsUrutkanBerdSkor>0</IsUrutkanBerdSkor>\
+        <JumButir>0</JumButir>\
+        <BobotBetul>1</BobotBetul>\
+        <BobotSalah>0</BobotSalah>\
+        <Kunci></Kunci>\
+        <NoButir/>\
+        <Skor>\
+            <JumItem>0</JumItem>\
+        </Skor>\
+    </Data_Skor>\
+</ANATES>';
+		jawaban_anates.val(calon_anates);
 
 	});
 
