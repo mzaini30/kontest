@@ -19,14 +19,18 @@ jQuery(function(){
 		calon_kunci_gabung = kunci.replace(/ /g, '');
 		kunci_gabung.val(calon_kunci_gabung);
 
+		// kunci gabung dulu
+
+		kunci_gabung_dulu = kunci_gabung.val();
+
 		// kunci per lima
 
-		calon_kunci_per_lima = kunci_gabung.val().replace(/(.....)/g, '$1\t');
+		calon_kunci_per_lima = kunci_gabung_dulu.replace(/(.....)/g, '$1\t');
 		kunci_per_lima.val(calon_kunci_per_lima);
 
 		// kunci satuan
 
-		calon_kunci_satuan = kunci_gabung.val().replace(/(.)/g, '$1\n');
+		calon_kunci_satuan = kunci_gabung_dulu.replace(/(.)/g, '$1\n');
 		kunci_satuan.val(calon_kunci_satuan);
 
 		// jawaban gabung dulu
