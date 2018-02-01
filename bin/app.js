@@ -56,7 +56,7 @@ jQuery(function(){
 		
 		// spss
 
-		list_spss = list_jawaban;
+		list_spss = list_jawaban.slice();
 
 		for (n in list_spss){
 			list_spss[n] = list_spss[n].split('');
@@ -79,6 +79,11 @@ jQuery(function(){
 			calon_spss += '\n';
 		}
 		spss.val(calon_spss);
+
+		// anates
+
+		calon_anates = '';
+		
 
 	});
 
