@@ -94,7 +94,7 @@ jQuery(function(){
 <ANATES file_version="4.0.2">\
     <Data_Mentah>\
         <Kunci>';
-        calon_anates += subyek[0];
+        calon_anates += kunci_gabung_dulu;
         // main set seperti di python
         set = {};
         for (n in list_kunci){
@@ -105,7 +105,7 @@ jQuery(function(){
         	list.push(n);
         }
         calon_anates += '</Kunci>\
-        <JumSubyek>'+list_jawaban+'</JumSubyek>\
+        <JumSubyek>'+list_jawaban.length+'</JumSubyek>\
         <JumButir>'+list_kunci.length+'</JumButir>\
         <JumPilihan>'+jumlah_pilihan.length+'</JumPilihan>\
         <IsNeedRecalc>-1</IsNeedRecalc>\
