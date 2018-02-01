@@ -19,6 +19,11 @@ jQuery(function(){
 		calon_kunci_gabung = kunci.replace(/ /g, '');
 		kunci_gabung.val(calon_kunci_gabung);
 
+		// kunci per lima
+
+		calon_kunci_per_lima = kunci.replace(/...../g, '\1\t');
+		kunci_per_lima.val(calon_kunci_per_lima);
+
 	});
 
 });
