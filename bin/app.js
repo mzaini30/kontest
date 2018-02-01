@@ -56,16 +56,16 @@ jQuery(function(){
 		for (n in list_jawaban){
 			list_jawaban[n] = list_jawaban[n].split('');
 		}
-		for (n in list_jawaban){
-			for (u in x.length){
-				if (x[u] == list_kunci[u]){
-					x[u] = 1;
-				} else if (x[u] != list_kunci[u]){
-					x[u] = 0;
+		for (x in list_jawaban){
+			for (u in list_jawaban[x]){
+				if (list_jawaban[x][u] == list_kunci[u]){
+					list_jawaban[x][u] = 1;
+				} else if (list_jawaban[x][u] != list_kunci[u]){
+					list_jawaban[x][u] = 0;
 				}
 			}
 		}
-		spss.val(list_jawaban);
+		
 
 	});
 
