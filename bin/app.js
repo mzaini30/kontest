@@ -49,10 +49,13 @@ jQuery(function(){
 
 		// intinya ada di kunci gabung dulu dan jawaban gabung dulu
 
-		// spss
+		// list kunci dan list jawaban
 
 		list_kunci = kunci_gabung_dulu.split('');
 		list_jawaban = jawaban_gabung_dulu.split('\n');
+		
+		// spss
+
 		for (n in list_jawaban){
 			list_jawaban[n] = list_jawaban[n].split('');
 		}
