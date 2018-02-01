@@ -56,22 +56,24 @@ jQuery(function(){
 		
 		// spss
 
-		for (n in list_jawaban){
-			list_jawaban[n] = list_jawaban[n].split('');
+		list_spss = list_jawaban;
+
+		for (n in list_spss){
+			list_spss[n] = list_spss[n].split('');
 		}
-		for (x in list_jawaban){
-			for (u in list_jawaban[x]){
-				if (list_jawaban[x][u] == list_kunci[u]){
-					list_jawaban[x][u] = 1;
-				} else if (list_jawaban[x][u] != list_kunci[u]){
-					list_jawaban[x][u] = 0;
+		for (x in list_spss){
+			for (u in list_spss[x]){
+				if (list_spss[x][u] == list_kunci[u]){
+					list_spss[x][u] = 1;
+				} else if (list_spss[x][u] != list_kunci[u]){
+					list_spss[x][u] = 0;
 				}
 			}
 		}
 		calon_spss = '';
-		for (n in list_jawaban){
-			for (u in list_jawaban[n]){
-				calon_spss += list_jawaban[n][u];
+		for (n in list_spss){
+			for (u in list_spss[n]){
+				calon_spss += list_spss[n][u];
 				calon_spss += '\t';
 			}
 			calon_spss += '\n';
