@@ -95,21 +95,25 @@ jQuery(function(){
     <Data_Mentah>\
         <Kunci>';
         calon_anates += subyek[0];
-        calon_anates += '</Kunci>\
-        <JumSubyek>'+list_jawaban.length+'</JumSubyek>\
-        <JumButir>'+list_kunci.length+'</JumButir>\
-        <JumPilihan>'+'</JumPilihan>\
-        <IsNeedRecalc>-1</IsNeedRecalc>\
-        <NoButir>';
+        // main set seperti di python
         set = {};
         for (n in list_kunci){
         	set[list_kunci[n]] = true;
         }
-        list = [];
-        for (n in set){
+        jumlah_pilihan = [];
+        for (n in jumlah_pilihan){
         	list.push(n);
         }
-        jawaban_anates.val(list);
+        calon_anates += '</Kunci>\
+        <JumSubyek>'+list_jawaban.length+'</JumSubyek>\
+        <JumButir>'+list_kunci.length+'</JumButir>\
+        <JumPilihan>'+jumlah_pilihan.length+'</JumPilihan>\
+        <IsNeedRecalc>-1</IsNeedRecalc>\
+        <NoButir>';
+        n = 1;
+        while (n < (list_kunci.length + 1)){
+        	calon_anates += '<NOBTR>'+n+'</NOBTR>';
+        }
 
 	});
 
