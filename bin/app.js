@@ -47,6 +47,12 @@ jQuery(function(){
 		calon_jawaban_satuan = jawaban_gabung_dulu.replace(/(.)/g, '$1\t');
 		jawaban_satuan.val(calon_jawaban_satuan);
 
+		// intinya ada di kunci gabung dulu dan jawaban gabung dulu
+
+		// spss
+
+		
+
 	});
 
 });
