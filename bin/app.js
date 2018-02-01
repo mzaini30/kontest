@@ -113,7 +113,13 @@ jQuery(function(){
         n = 1;
         while (n < (list_kunci.length + 1)){
         	calon_anates += '<NOBTR>'+n+'</NOBTR>';
+        	n++;
         }
+        n = 0;
+        calon_anates += '</NoButir>\
+        <Jawaban>\
+            <JumItem>'+list_jawaban.length+'</JumItem>';
+		z = 1;
 
 	});
 
