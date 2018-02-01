@@ -57,8 +57,15 @@ jQuery(function(){
 			list_jawaban[n] = list_jawaban[n].split('');
 		}
 		for (n in list_jawaban){
-			for (u in )
+			for (u in x.length){
+				if (x[u] == list_kunci[u]){
+					x[u] = 1;
+				} else if (x[u] != list_kunci[u]){
+					x[u] = 0;
+				}
+			}
 		}
+		spss.val(list_jawaban);
 
 	});
 
