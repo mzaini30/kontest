@@ -51,8 +51,8 @@ jQuery(function(){
 
 		// spss
 
-		list_kunci = kunci_gabung_dulu.split('');
-		console.log(list_kunci);
+		list = jawaban_gabung_dulu.split('');
+		spss.val(list);
 
 	});
 
