@@ -65,7 +65,15 @@ jQuery(function(){
 				}
 			}
 		}
-		
+		calon_spss = '';
+		for (n in list_jawaban){
+			for (u in list_jawaban[n]){
+				calon_spss += list_jawaban[n][u];
+				calon_spss += '\t';
+			}
+			calon_spss += '\n';
+		}
+		spss.val(calon_spss);
 
 	});
 
