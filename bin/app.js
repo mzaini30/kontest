@@ -1,5 +1,7 @@
 jQuery(function(){
 
+	// deklarasi
+
 	kunci = $('#kunci').val();
 	jawaban = $('#jawaban').val();
 	kunci_gabung = $('#kunci-gabung');
@@ -10,6 +12,13 @@ jQuery(function(){
 	spss = $('#spss');
 	jawaban_anates = $('#jawaban-anates');
 
-	
+	$('.convert').click(function(){
+
+		// kunci gabung
+
+		calon_kunci_gabung = kunci.replace(/ /g, '');
+		kunci_gabung.val(calon_kunci_gabung);
+
+	});
 
 });
