@@ -16,7 +16,7 @@ jQuery(function(){
 
 		// kunci gabung
 
-		calon_kunci_gabung = kunci.replace(/ /g, '');
+		calon_kunci_gabung = kunci.replace(/ /g, '').replace(/\t/g, '');
 		kunci_gabung.val(calon_kunci_gabung);
 
 		// kunci gabung dulu
@@ -35,7 +35,7 @@ jQuery(function(){
 
 		// jawaban gabung dulu
 
-		jawaban_gabung_dulu = jawaban.replace(/ /g, '');
+		jawaban_gabung_dulu = jawaban.replace(/ /g, '').replace(/\t/g, '');
 
 		// jawaban per lima
 
